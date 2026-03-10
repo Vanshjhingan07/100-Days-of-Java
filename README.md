@@ -17,7 +17,6 @@ this includes day 61 to 100.
 | 001 | C:   | Basic Addition     | Arithmetic      | [Day01C](Phase-1(Day%201-30)/Day01C.java) |
 | 001 | D:   |Area,Circumference  | Arithmetic      | [Day01D](Phase-1(Day%201-30)/Day01D.java) |
 | 001 | E:   |ASCII value finder  | Typecasting     | [Day01E](Phase-1(Day%201-30)/Day01E.java) |
-
 | 002 | A:   | Simple Interest    | Math Formula    | [Day02A](Phase-1(Day%201-30)/Day02A.java) |
 | 002 | B:   | Swap (No 3rd Var)  | Arithmetic      | [Day02B](Phase-1(Day%201-30)/Day02B.java) |
 | 002 | C:   | BMI Calculator     | Math Logic      | [Day02C](Phase-1(Day%201-30)/Day02C.java) |
