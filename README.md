@@ -25,3 +25,11 @@ this includes day 61 to 100.
 | 002 | F:   | Leap Year Check    | Conditionals    | [Day02F](Phase-1(Day%201-30)/Day02F.java) |
 | 002 | G:   | Triangle Validity  | Logic           | [Day02G](Phase-1(Day%201-30)/Day02G.java) |
 | 002 | H:   | Income Tax Calc.   | Multi-Condition | [Day02H](Phase-1(Day%201-30)/Day02H.java) |
+| 003 | A:   | Sum of N Numbers   | Iteration       | [Day03A](Phase-1(Day%201-30)/Day03A.java) |
+| 003 | B:   | Multi. Table       | Loops           | [Day03B](Phase-1(Day%201-30)/Day03B.java) |
+| 003 | C:   | Sum till input no. | Math Logic      | [Day03C](Phase-1(Day%201-30)/Day03C.java) |
+| 003 | D:   | Factorial Calc.    | Iteration       | [Day03D](Phase-1(Day%201-30)/Day03D.java) |
+| 003 | E:   | Reverse a Number   | Math Logic      | [Day03E](Phase-1(Day%201-30)/Day03E.java) |
+| 003 | F:   | Palindrome Check   | Conditionals    | [Day03F](Phase-1(Day%201-30)/Day03F.java) |
+| 003 | G:   | Fibonacci Series   | Sequences       | [Day03G](Phase-1(Day%201-30)/Day03G.java) |
+| 003 | H:   | Armstrong Check    | Math Logic      | [Day03H](Phase-1(Day%201-30)/Day03H.java) |
